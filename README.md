@@ -25,6 +25,7 @@ Lower the barrier of entry for players to start modding (coding). Coding should 
   - https://redux-saga.js.org/docs/introduction/GettingStarted
 - Electron
   - https://www.electronjs.org/docs/latest/tutorial/devtools-extension
+  - https://hackernoon.com/electron-the-bad-parts-2b710c491547
 - Greenworks
   - https://github.com/greenheartgames/greenworks
 - git
@@ -40,8 +41,8 @@ Lower the barrier of entry for players to start modding (coding). Coding should 
 
 ## Possible Features to Implement
 
-- async updates
-- no lag on selection / deselection
+- async mod updates
+- no lag on selection / deselection of mods
 - automatic mod updates
 - profiles (map to collections)
 - history (use git to go back and forwards)
@@ -69,3 +70,4 @@ Lower the barrier of entry for players to start modding (coding). Coding should 
 - statistics for modders
 - tools for modders (donations, publishing, integrating mod buddy)
 - donations
+- app update notifications and auto update
