@@ -6,6 +6,8 @@ Lower the barrier of entry for players to start modding (coding). Coding should 
 
 ## Tech
 
+I might just do all this in javafx and kotlin instead...
+
 - ESM
   - https://dev.to/asteinarson/typescript-nodejs-and-es6-esm-modules-18ea
 - CSS Modules
